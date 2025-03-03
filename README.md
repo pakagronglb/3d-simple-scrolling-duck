@@ -1,5 +1,11 @@
 # 🦆 3D Simple Duck Animations with Scrolling 
 
+
+
+https://github.com/user-attachments/assets/cde30f9f-2b8a-4e00-8bf6-01137f06f0bc
+
+
+
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/gsap/)
